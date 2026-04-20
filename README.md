@@ -29,17 +29,17 @@ text
 
 
 ├── NLP2_Project_KostrikinVV.ipynb   # Основной Jupyter Notebook с полным пайплайном
-
+|
 ├── documents_SBER/                  # Папка с исходными .txt документами (8 файлов)
-
+|
 ├── qdrant_storage/                  # Локальное хранилище Qdrant
-
+|
 ├── bm25_index.pkl                   # Сохранённый индекс BM25
-
+|
 ├── Test_dataset.xlsx                # Тестовый датасет из 79 пар «вопрос‑ответ»
-
+|
 ├── README.md                        # Описание проекта и выводы
-
+|
 └── requirements.txt                 # Зависимости
 
 ---
